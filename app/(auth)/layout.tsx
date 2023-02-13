@@ -1,4 +1,5 @@
 import GlassPane from "@/components/GlassPane";
+import "@/styles/global.css";
 
 export default function AuthRootLayout({ children }) {
   return (

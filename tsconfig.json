@@ -20,8 +20,11 @@
       }
     ],
     "paths": {
-      "@/lib/*": ["./lib/*"],
       "@/components/*": ["./components/*"],
+      "@/hooks/*": ["./hooks/*"],
+      "@/lib/*": ["./lib/*"],
+      "@/styles/*": ["./styles/*"],
+      "@/prisma/*": ["./prisma/*"],
       "@/assets/*": ["./assets/*"]
     }
   },
