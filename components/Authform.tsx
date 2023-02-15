@@ -61,7 +61,7 @@ export default function AuthForm({ mode }: { mode: "register" | "signin" }) {
   return (
     <Card>
       <div className="w-full">
-        <div className="text-center">
+        <div className="text-center mt-10">
           <h2 className="text-3xl mb-2">{content.header}</h2>
           <p className="tex-lg text-black/25">{content.subheader}</p>
         </div>
