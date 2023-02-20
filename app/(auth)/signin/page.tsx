@@ -1,5 +1,4 @@
-// import AuthForm from "@/components/AuthForm";
-import AuthForm from "../../../components/AuthForm";
+import AuthForm from "@/components/Authform";
 
 export default function Signin() {
   return (

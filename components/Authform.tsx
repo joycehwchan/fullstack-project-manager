@@ -19,7 +19,7 @@ const signinContent = {
   linkUrl: "/register",
   linkText: "Don't have an account?",
   header: "Welcome Back",
-  subheader: "Enter your credentials to access your account",
+  subheader: "Sign in to browse all your projects and tasks.",
   buttonText: "Sign In",
 };
 
