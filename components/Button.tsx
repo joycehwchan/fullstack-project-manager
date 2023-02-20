@@ -5,7 +5,7 @@ const buttonClasses = cva(
   [
     "rounded-3xl",
     "font-bold",
-    "hover:scale-110",
+    "hover:scale-95",
     "active:scale-100",
     "transition",
     "duration-200",
