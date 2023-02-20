@@ -15,7 +15,7 @@ const getData = async () => {
         deleted: false,
       },
     },
-    take: 10,
+    take: 5,
     orderBy: {
       due: "asc",
     },
